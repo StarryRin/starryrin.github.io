@@ -1,0 +1,17 @@
+/* style.css (I forgot how to write css for a sec wtf) */
+/* https://github.com/catppuccin/catppuccin?tab=readme-ov-file#-palette (Mocha) */
+
+html{
+    background-color: #1e1e2e;
+    font-family: Helvetica, sans-serif; /* replace with something from google fonts later */
+}
+
+body{
+    width: 100%;
+    padding:1rem;
+
+}
+
+p{
+    color: #cdd6f4;
+}
